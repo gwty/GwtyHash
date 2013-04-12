@@ -1,0 +1,4 @@
+GwtyHash
+========
+
+English Plagiarism Detector
